@@ -1,6 +1,7 @@
 # 📂 Archivage intelligent Gmail vers Drive
 
-![Version](https://img.shields.io/badge/version-5.0.0-blue.svg)
+![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Google%20Apps%20Script-green)
 ![Runtime](https://img.shields.io/badge/Google%20Apps%20Script-V8-green)
 ![Author](https://img.shields.io/badge/Auteur-Fabrice%20Faucheux-orange)
 
