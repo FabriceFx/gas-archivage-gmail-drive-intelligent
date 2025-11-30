@@ -1,4 +1,4 @@
-# 📂 Archivage Intelligent Gmail vers Drive
+# 📂 Archivage intelligent Gmail vers Drive
 
 ![Version](https://img.shields.io/badge/version-5.0.0-blue.svg)
 ![Runtime](https://img.shields.io/badge/Google%20Apps%20Script-V8-green)
@@ -10,7 +10,7 @@ Ce projet est une solution d'automatisation robuste ("Set and Forget") pour Goog
 
 Contrairement aux scripts basiques, cette solution gère la **conversion de formats** (Images vers PDF), le **classement dynamique** (Année/Mois) et la **normalisation des noms de fichiers** pour garantir un archivage propre et consultable.
 
-## ✨ Fonctionnalités Clés
+## ✨ Fonctionnalités clés
 
 * **🔍 Filtrage Précis :** Cible uniquement les e-mails non lus portant un libellé spécifique (ex: "Facture").
 * **🔄 Conversion à la volée :** Transforme automatiquement les images (JPEG, PNG) en PDF. Les PDF natifs sont conservés tels quels.
